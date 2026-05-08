@@ -1,6 +1,6 @@
 # FreeRTOS 入门与工程实践 - 基于 DShanMCU-F103 (STM32F103)
 
-基于[百问网 DShanMCU-F103 学习套件](https://item.taobao.com/item.htm?id=724601559592)的 FreeRTOS 教程笔记与交互式题库。
+基于百问网 DShanMCU-F103 (STM32F103) 的 FreeRTOS 教程笔记与交互式题库。
 
 ## 内容目录
 
@@ -42,5 +42,4 @@
 ## 配套资源
 
 - 教程视频：[B站 - FreeRTOS入门与工程实践](https://www.bilibili.com/video/BV11h41167iD)
-- 开发板购买：[淘宝 - DShanMCU-F103](https://item.taobao.com/item.htm?id=724601559592)
 - 资料下载：[http://download.100ask.net/boards/St/DShanMCU-F103/index.html](http://download.100ask.net/boards/St/DShanMCU-F103/index.html)
